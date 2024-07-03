@@ -1,0 +1,117 @@
+(10004)(    2)ME: C:\Windows\system32\conhost.exe
+(10004)(    2) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(10004)(    2) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(10004) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(10004)(    2) + Ignored EXENAME: conhost
+(38688)(    3)ME: C:\Windows\system32\cmd.exe
+(38688)(    3) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(38688)(    3) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(38688) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(38688)(    3) + Ignored EXENAME: cmd
+(30288)(    4)ME: C:\Windows\system32\chcp.com
+(30288)(    4) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(30288)(    4) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(30288) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(30288)(    4) + Ignored EXENAME: chcp
+(  684)(    5)ME: C:\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+(  684)(    5) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(  684)(    5) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(  684) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(  684)(    5)ME: C:\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+(  684)(    5) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(  684)(    5) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(  684) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 3876)(    6)ME: C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe
+( 3876)(    6) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+( 3876)(    6) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+( 3876) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 3876)(    6) + Ignored EXENAME: csc
+(19232)(    7)ME: C:\Windows\Microsoft.NET\Framework\v4.0.30319\cvtres.exe
+(19232)(    7) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(19232)(    7) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(19232) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19232)(    7) + Ignored EXENAME: cvtres
+(19232)(    7)ME: C:\Windows\Microsoft.NET\Framework\v4.0.30319\cvtres.exe
+(19232)(    7) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(19232)(    7) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(19232) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 3876)(    6)ME: C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe
+( 3876)(    6) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+( 3876)(    6) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+( 3876) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(30212)(    8)ME: C:\Windows\system32\conhost.exe
+(30212)(    8) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(30212)(    8) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(30212) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(30212)(    8) + Ignored EXENAME: conhost
+(19224)(    9)ME: C:\Program Files (x86)\MSBuild\14.0\bin\Tracker.exe
+(19224)(    9) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(19224)(    9) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(19224) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19224)(    9) + Ignored EXENAME: tracker
+(39752)(   11)ME: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\mspdbsrv.exe
+(39752)(   11) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(39752)(   11) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(39752) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(39752)(   11) + Ignored EXENAME: mspdbsrv
+(32892)(   10)ME: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe
+(32892)(   10) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(32892)(   10) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(32892) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(32892)(   10)ME: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe
+(32892)(   10) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(32892)(   10) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(32892) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19224)(    9)ME: C:\Program Files (x86)\MSBuild\14.0\bin\Tracker.exe
+(19224)(    9) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(19224)(    9) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(19224) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(32132)(   12)ME: C:\Windows\system32\conhost.exe
+(32132)(   12) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(32132)(   12) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(32132) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(32132)(   12) + Ignored EXENAME: conhost
+(21412)(   13)ME: C:\Program Files (x86)\MSBuild\14.0\bin\Tracker.exe
+(21412)(   13) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(21412)(   13) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(21412) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(21412)(   13) + Ignored EXENAME: tracker
+(14636)(   15)ME: C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe
+(14636)(   15) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(14636)(   15) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(14636) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(14636)(   15) + Ignored EXENAME: rc
+(14636)(   15)ME: C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe
+(14636)(   15) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(14636)(   15) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(14636) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(28780)(   16)ME: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\cvtres.exe
+(28780)(   16) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(28780)(   16) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(28780) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(28780)(   16) + Ignored EXENAME: cvtres
+(28780)(   16)ME: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\cvtres.exe
+(28780)(   16) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(28780)(   16) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(28780) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27720)(   14)ME: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe
+(27720)(   14) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(27720)(   14) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(27720) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27720)(   14)ME: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe
+(27720)(   14) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(27720)(   14) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(27720) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(21412)(   13)ME: C:\Program Files (x86)\MSBuild\14.0\bin\Tracker.exe
+(21412)(   13) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(21412)(   13) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(21412) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(36488)(   17)ME: C:\Windows\system32\chcp.com
+(36488)(   17) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(36488)(   17) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(36488) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(36488)(   17) + Ignored EXENAME: chcp
+(39752)(   11)ME: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\mspdbsrv.exe
+(39752)(   11) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.7.0\
+(39752)(   11) + WORKING: D:\VPES_GIT\git\새 폴더\miro_vs2015\.staticdata
+(39752) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
